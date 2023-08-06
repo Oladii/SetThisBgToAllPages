@@ -1,0 +1,16 @@
+{
+  "name": "Set this BG to all pages",
+  "id": "1242087535783445909",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
